@@ -1,4 +1,4 @@
-# SRGAN_MSE 
+# SRGAN 
 Reimplement https://github.com/tensorlayer/srgan 
 ## 1.Training on KITTI dataset  
 Data: http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d  
